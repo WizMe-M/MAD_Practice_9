@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Шутки про Чака Норриса</string>
+    <string name="api_chuck_norris_jokes">https://api.chucknorris.io/jokes/random</string>
+    <string name="get_joke">Получить шутку!</string>
+    <string name="joke_is_loading">Шутка загружается....</string>
+    <string name="joke_here">Здесь будет шутка</string>
+    <string name="joke_load_fail">Ошибка при загрузке шутки\nПроверьте подключение к
+        интернету и попробуйте позже!</string>
+    <string name="joke_output_sample">Внимание ШУТКА!\n{0}\n[{1};{2};{3};{4};{5};{6}]</string>
+    <string name="loading">Загрузка шутки…</string>
+</resources>
